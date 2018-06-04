@@ -10,5 +10,11 @@
   },
   "dependencies": {
     "native-base": "^2.4.5"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "jest": {
+    "preset": "react-native"
   }
 }
